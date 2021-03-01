@@ -1,6 +1,5 @@
-//Accept and store values from rectangular and jagged array
-//display the values in both jagged and rectangular array 
-//using normal for loop and for each loop
+//Accept and store values from rectangular array
+//display the values in rectangular array 
 using System;  
 
 class Program {  
